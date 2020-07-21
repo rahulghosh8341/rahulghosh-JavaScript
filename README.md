@@ -1,7 +1,7 @@
 # rahulghosh-JavaScript
 Epam Assignment-13
 
-Login Page: index.html
-js file: login.js
-css file: style.css
+Login Page: index.html<br>
+js file: login.js<br>
+css file: style.css<br>
 

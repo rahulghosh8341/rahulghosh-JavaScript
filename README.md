@@ -1,7 +1,7 @@
 # rahulghosh-JavaScript
-Epam Assignment-13
+<b>Epam Assignment-13</b>
 
-Login Page: index.html<br>
-js file: login.js<br>
-css file: style.css<br>
+<b>Login Page:</b> index.html<br>
+<b>js file:</b> login.js<br>
+<b>css file:</b> style.css<br>
 
